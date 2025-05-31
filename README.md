@@ -29,7 +29,7 @@
 
 ```bash
 # 📁 Клонируй репозиторий
-git clone https://github.com/your-username/notes_api.git
+git clone https://github.com/dunanhub/notes_api.git
 cd notes_api
 ```
 
